@@ -96,3 +96,28 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+
+# Our Blog – Expeditionsleben
+
+Ein privater Blog über unser Leben im Expeditionsmobil.
+
+## Architektur
+
+- 🧱 CQRS Pattern
+- 🧩 Hexagonale Architektur (Ports & Adapters)
+- 🚀 NestJS mit modularer Struktur
+
+## Features
+
+- Beiträge (Post)
+- Benutzerverwaltung
+- Kommentare
+- u.v.m.
+
+## Setup
+
+```bash
+npm install
+npm run start:dev
